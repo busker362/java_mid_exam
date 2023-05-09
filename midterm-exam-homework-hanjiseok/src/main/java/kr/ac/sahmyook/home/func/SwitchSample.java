@@ -33,7 +33,6 @@ public class SwitchSample {
                 System.out.println("잘못된 연산자입니다.");
         }
         System.out.println(result);
-
     }
 
     public void fruitPrice(){
@@ -60,7 +59,6 @@ public class SwitchSample {
                 System.out.println(fruit + "은(는) 판매하지 않습니다.");
                 return;
         }
-
         System.out.println(fruit + "의 가격은 " + price + "원입니다.");
     }
 }

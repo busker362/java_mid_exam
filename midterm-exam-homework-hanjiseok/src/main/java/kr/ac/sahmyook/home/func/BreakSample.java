@@ -23,7 +23,7 @@ public class BreakSample {
                 }
                 System.out.println(i + " * " + j + " = " + i*j);
             }
-            System.out.println(); 
+            System.out.println();
         }
     }
 }
